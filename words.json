@@ -1,0 +1,42 @@
+[
+	{
+        "target": "color",
+        "source": "blue"
+    },
+    {
+        "target": "material",
+        "source": "wood"
+    },
+    {
+        "target": "Fruit",
+        "source": "apple"
+    },
+    {
+        "target": "number",
+        "source": "eleven"
+    },
+    {
+        "target": "white",
+        "source": "color"
+    },
+    {
+        "target": "country",
+        "source": "turkey"
+    },
+    {
+        "target": "teacher",
+        "source": "school"
+    },
+    {
+        "target": "soccer",
+        "source": "ball"
+    },
+    {
+        "target": "monday",
+        "source": "day"
+    },
+    {
+        "target": "minute",
+        "source": "clock"
+	}
+]

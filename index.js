@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import App from './src/screens/HomeScreen';
 
-AppRegistry.registerComponent('RaindropWords', () => App);
+AppRegistry.registerComponent('confetti', () => App);
